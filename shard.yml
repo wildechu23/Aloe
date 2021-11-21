@@ -1,0 +1,13 @@
+name: aloe
+version: 0.1.0
+
+authors:
+  - Wilde Chu <wildechu23@gmail.com>
+
+targets:
+  aloe:
+    main: src/aloe.cr
+
+crystal: 1.2.2
+
+license: MIT
